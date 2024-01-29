@@ -5,7 +5,7 @@ Primeiro Projeto backend da semana "Do 0 ao programador contratado" do Dev em Do
 # Objetivo:
 O projeto consiste numa replica da landing page do jogo GTA da Rockstar Games.
 
-#Tecnologias:
+# Tecnologias:
 - HTML
 - CSS
 - JavaScript
